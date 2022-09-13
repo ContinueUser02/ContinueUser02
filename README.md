@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jae Hoon Chang. I am a Gachon University student and I am dreaming of becoming a senior developer.
+My email is ###jjaehun1998@gmail.com. If you want to communicate with me, send me an email here.
 <!--
 **ContinueUser02/ContinueUser02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
